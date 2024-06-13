@@ -51,8 +51,8 @@ The Arduino LSM9DS1 library allows us to use the Arduino Nano 33 BLE IMU module 
 - **Accelerometer** range is set at [-4, +4]g -/+0.122 mg.
 - **Gyroscope** range is set at [-2000, +2000] dps +/-70 mdps.
 - **Magnetometer** range is set at [-400, +400] uT +/-0.014 uT.
-- **Accelerometer** Output data rate is fixed at 104 Hz.
-- **Gyroscope** Output data rate is fixed at 104 Hz.
+- **Accelerometer** Output data rate is fixed at 119 Hz.
+- **Gyroscope** Output data rate is fixed at 119 Hz.
 - **Magnetometer** Output data rate is fixed at 20 Hz.
 
 If you want to read more about the LSM9DS1 sensor module see <a href="https://content.arduino.cc/assets/Nano_BLE_Sense_lsm9ds1.pdf" target="_blank">here</a>.
